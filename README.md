@@ -39,4 +39,6 @@ Notebook)
 ![image](https://github.com/Javen05/AWS-Experience/assets/107395637/cb1d7199-dea3-439f-bf8e-d6caeaf8f5ef)
 [Link to Diagram](https://app.diagrams.net/#G13J0cF2yyGpaR7hjSbrzBRWiW_HM7i7L0)
 
+### Difference between Version 1 and 2:
+Version 2 aimed to fulfil the advanced requirements of the project. Decided to strategically focus on USA fisheries in order to integrate the USA.json and species datasets together. Also created S3 API endpoint in order to connect to Power BI to create visualizations using live data from my created API to achieve 'Advanced Analytics' requirement.
 
